@@ -1,4 +1,4 @@
-# Returns_Dashboard
+# Sales and Employee Performance Dashboard
 
 # Objective
 This project showcases a Power BI dashboard built to analyze returns, employee performance, and Year-over-Year (YoY) trends using the Orders, People, and Returns datasets (2014–2016).
