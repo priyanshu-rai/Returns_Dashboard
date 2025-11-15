@@ -1,5 +1,7 @@
 # Sales Performance Dashboard
 
+# Video Walkthrough -  https://youtu.be/vqTDmhu-45M
+
 # Objective
 This project showcases a Power BI dashboard built to analyze returns, employee performance, and Year-over-Year (YoY) trends using the Orders, People, and Returns datasets (2014–2016).
 The dashboard helps identify high-return employees, track monthly trends, monitor return value changes, and support data-driven decision making.
@@ -56,9 +58,6 @@ Avg Return Value increased to 1.6M, up ~64% YoY, showing that higher-value items
 Anna contributed to the highest number of returns (60%+), highlighting a potential performance or process issue.
 
 A noticeable dip in returns during mid-2016 suggests operational improvements.
-
-
-# Video Walkthrough -  https://youtu.be/vqTDmhu-45M
 
 
 # 🏁 Final Outcome -
