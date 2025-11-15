@@ -61,6 +61,6 @@ A noticeable dip in returns during mid-2016 suggests operational improvements.
 # Video Walkthrough -  https://youtu.be/vqTDmhu-45M
 
 
-🏁 Final Outcome -
+# 🏁 Final Outcome -
 
 This project delivers a clear and interactive dashboard that provides management with actionable insights on returns, employee performance, and YoY trends — enabling better operational decisions.
